@@ -1,0 +1,3 @@
+  Information about account,  account id: 2192136707 , money in the account: 13000.0 ,  Information about custmor,  , the national id: 136707 , name: sarah ,family name: mohamed , place of residence: fayom , year of birth: 1987
+  Information about account,  account id: 2192678345 , money in the account: 13000.0 ,  Information about custmor,  , the national id: 678345 , name: ahmed ,family name: nasr , place of residence: aswan , year of birth: 1976
+  Information about account,  account id: 2192952466 , money in the account: 20800.0 ,  Information about custmor,  , the national id: 952466 , name: heba ,family name: yossef , place of residence: cairo , year of birth: 1990
